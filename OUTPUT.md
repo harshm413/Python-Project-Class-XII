@@ -347,12 +347,12 @@ Menu
 Choose from the above option: 4
 
 History is as follows:
-Action S.No. S.Name B.No. B.Name Date
-issued 726483 Pawan Kumar 64179 The planet 2021-04-01
-issued 387465 Somesh Kumar 53672 Query Cat 2021-04-02
-submitted 387465 Somesh Kumar 53672 Query Cat 2021-04-21
-submitted 726483 Pawan Kumar 64179 The planet 2021-04-25
-issued 653821 Rohan Tiwari 63846 RD Burman 2021-04-07
+Action     S.No.   S.Name        B.No.  B.Name     Date
+issued     726483  Pawan Kumar   64179  The planet 2021-04-01
+issued     387465  Somesh Kumar  53672  Query Cat  2021-04-02
+submitted  387465  Somesh Kumar  53672  Query Cat  2021-04-21
+submitted  726483  Pawan Kumar   64179  The planet 2021-04-25
+issued     653821  Rohan Tiwari  63846  RD Burman  2021-04-07
 
 Choose from the above option: 6
 
